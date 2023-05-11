@@ -2,7 +2,8 @@ Next JS 13
 
 ## Topics covered
 
-- Server Side Rendering
+- Static Site Generation with revalidation
+- Custom 404 Page
 - Parallel data fetching
 - Routing
 

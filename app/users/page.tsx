@@ -12,9 +12,6 @@ export default async function Users() {
 
   const content = (
     <section>
-        <h2>
-            <Link href={"/"} className="ml-10">Back to Home</Link> 
-        </h2>
         <br/>
         {
             users.map(user => {
